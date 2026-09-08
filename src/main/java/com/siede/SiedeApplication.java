@@ -1,13 +1,13 @@
-package com.siede.restaurante;
+package com.siede;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestauranteApplication {
+public class SiedeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestauranteApplication.class, args);
+		SpringApplication.run(SiedeApplication.class, args);
 	}
 
 }
